@@ -6,9 +6,9 @@ int main()
 	int sutun;
 	int satir;
 	
-	cout << "satır numarasini girin:\n";
+	cout << "enter row number:\n";
 	cin >> satir;
-	cout << "sutun numarasini girin:\n";
+	cout << "enter column number:\n";
 	cin >> sutun;
 	
 	unsigned long long faktoriyel = 1;
